@@ -3,7 +3,7 @@
 ## Info project **"Cryptoinfo"**
 
 ### SPA for collecting and displaying information about cryptocurrencies
-- [Cryptoinfo](#)
+- [Cryptoinfo](https://my-cryptoinfo.herokuapp.com/)
 ---
 ### Tech
 the following technologies were used:
